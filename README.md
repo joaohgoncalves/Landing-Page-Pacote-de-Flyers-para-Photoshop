@@ -2,7 +2,7 @@
 
 Landing page profissional para divulgação e venda do **Pack Mega Flyer**, um pacote exclusivo com mais de 500 modelos de flyers prontos para edição no Photoshop.
 ![Preview da Landing Page](modelo-megaflyer.jpg)
-
+![Preview da Landing Page](banner.png)
 ---
 
 ## 📦 O que é este projeto?
